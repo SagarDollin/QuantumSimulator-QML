@@ -8,4 +8,4 @@ It has:
   3. It uses GPU capabilities to compute Linear Transformations and expected Values
   4. It is learanble and can be subjected for QML
   
-  Please go through the additional files added along with Quantum_Simulator.py to get more insisghts of the updates.
+  Please go through the additional files added along with MyQuantumSimulator.py to get more insisghts of the updates.
