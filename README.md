@@ -1,5 +1,5 @@
 # QuantumSimulator-QML
-Qpiai task by Sagar B Dollin
+Sagar B Dollin
 
 This Quantum Simulator is an updated version of the previouys simulator that I built.
 It has:
