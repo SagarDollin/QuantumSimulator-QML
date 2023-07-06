@@ -1,7 +1,7 @@
 # QuantumSimulator-QML
 Sagar B Dollin
 
-This Quantum Simulator is an updated version of the previouys simulator that I built.
+This [Quantum Simulator](https://github.com/SagarDollin/QuantumComputerSimulator) is an updated version of the previouys simulator that I built.
 It has:
   1. Rotation Gates like Rx, Ry, and R
   2. It is has trnasformations that are differentiabnle like Rx, Ry, R .
