@@ -1,11 +1,11 @@
 # QuantumSimulator-QML
 Sagar B Dollin
 
-This [Quantum Simulator](https://github.com/SagarDollin/QuantumComputerSimulator) is an updated version of the previouys simulator that I built.
+This is an updated version of the [Quantum Simulator](https://github.com/SagarDollin/QuantumComputerSimulator) previously built.
 It has:
   1. Rotation Gates like Rx, Ry, and R
-  2. It is has trnasformations that are differentiabnle like Rx, Ry, R .
+  2. It has differentiable transformations, like Rx, Ry, and R.
   3. It uses GPU capabilities to compute Linear Transformations and expected Values
-  4. It is learanble and can be subjected for QML
+  4. It is learnable and can be subjected to QML
   
-  Please go through the additional files added along with MyQuantumSimulator.py to get more insights about the updates.
+  Please take a look at the additional files added along with MyQuantumSimulator.py to get more insights about the updates.
